@@ -1,6 +1,9 @@
 
 # 📝 Publications 
 
+<!-- - ``USENIX SEC 2024`` [Towards Automatic Discovery of Denial of Service Weaknesses in Blockchain Resource Models](https://ieeexplore.ieee.org/document/10248062), **<u>F. Luo</u>**, K. Lin, Z. Li, S. Sun, X. Luo, R. Luo, Z. He, S. Song, T. Chen \\
+Proceedings of the 33rd USENIX Security Symposium, 2024. -->
+
 - ``ICSE 2024`` [SCVHlunter: Smart Contract VulnerabilityDetection Based on Heterogeneous GraphAttention Network](https://ieeexplore.ieee.org/document/10248062), **<u>F. Luo</u>**, R. Luo, T. Chen, A. Qiao, Z. He, S. Song, Y. Jiang, S. Li \\
 IEEE/ACM International Conference on Software Engineering, 2024.
 
@@ -13,7 +16,7 @@ International Conference on Big Data, IoT, and Cloud Computing, 2022.
 - ``ICC 2022`` [TokenCat: Detect Flaw of Authentication on ERC20 Tokens](https://ieeexplore.ieee.org/document/9839252), Z. He, Z. Liao, **<u>F. Luo</u>**, D. Liu, T. Chen, Z. Li \\
 IEEE International Conference on Communications, 2022.
 
-## 🎙 Speech Synthesis
+<!-- ## 🎙 Speech Synthesis
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
@@ -118,4 +121,4 @@ Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
 - ``ICLR 2022`` [Pseudo Numerical Methods for Diffusion Models on Manifolds](https://openreview.net/forum?id=PlKWVd2yBkY), Luping Liu, **Yi Ren**, Zhijie Lin, Zhou Zhao \| [![](https://img.shields.io/github/stars/luping-liu/PNDM?style=social&label=Code+Stars)](https://github.com/luping-liu/PNDM) \| [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pseudo-numerical-methods-for-diffusion-models-1/image-generation-on-celeba-64x64)](https://paperswithcode.com/sota/image-generation-on-celeba-64x64?p=pseudo-numerical-methods-for-diffusion-models-1)
 
 ## Others
-- ``ACM-MM 2022`` [Video-Guided Curriculum Learning for Spoken Video Grounding](), Yan Xia, Zhou Zhao, Shangwei Ye, Yang Zhao, Haoyuan Li, **Yi Ren**
+- ``ACM-MM 2022`` [Video-Guided Curriculum Learning for Spoken Video Grounding](), Yan Xia, Zhou Zhao, Shangwei Ye, Yang Zhao, Haoyuan Li, **Yi Ren** -->
