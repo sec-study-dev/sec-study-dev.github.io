@@ -1,5 +1,18 @@
 
 # 📝 Publications 
+
+- ``ICSE 2024`` [SCVHlunter: Smart Contract VulnerabilityDetection Based on Heterogeneous GraphAttention Network](https://ieeexplore.ieee.org/document/10248062), **F. Luo**, R. Luo, T. Chen, A. Qiao, Z. He, S. Song, Y. Jiang, S. Li \\
+IEEE/ACM International Conference on Software Engineering, 2024.
+
+- ``AIBT 2023`` [VulDet: Smart Contract Vulnerability Detection Based on Graph Attention Networks](https://ieeexplore.ieee.org/document/10248062), **F. Luo**, R. Luo \\
+International Conference on Artificial Intelligence and Blockchain Technology, 2023.
+
+- ``ICBICC 2022`` [Smart contract vulnerability detection based on variant LSTM](https://dl.acm.org/doi/10.1145/3588340.3588369), R. Luo, **F. Luo**, B. Wang, T. Chen \\
+International Conference on Big Data, IoT, and Cloud Computing, 2022.
+
+- ``ICC 2022`` [TokenCat: Detect Flaw of Authentication on ERC20 Tokens](https://ieeexplore.ieee.org/document/9839252), Z. He, Z. Liao, **F. Luo**, D. Liu, T. Chen, Z. Li \\
+IEEE International Conference on Communications, 2022.
+
 ## 🎙 Speech Synthesis
 
 
