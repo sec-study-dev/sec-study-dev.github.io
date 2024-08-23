@@ -1,8 +1,9 @@
 
 # 📝 Publications 
 
-<!-- - ``USENIX SEC 2024`` [Towards Automatic Discovery of Denial of Service Weaknesses in Blockchain Resource Models](https://ieeexplore.ieee.org/document/10248062), **<u>F. Luo</u>**, K. Lin, Z. Li, S. Sun, X. Luo, R. Luo, Z. He, S. Song, T. Chen \\
-Proceedings of the 33rd USENIX Security Symposium, 2024. -->
+- ``CCS 2024`` [Towards Automatic Discovery of Denial of Service Weaknesses in Blockchain Resource Models](https://ieeexplore.ieee.org/document/10248062) \\
+**<u>F. Luo</u>**, K. Lin, Z. Li, S. Sun, X. Luo, R. Luo, Z. He, S. Song, T. Chen \\
+ACM Conference on Computer and Communications Security, 2024.
 
 - ``ICSE 2024`` [SCVHlunter: Smart Contract VulnerabilityDetection Based on Heterogeneous GraphAttention Network](https://ieeexplore.ieee.org/document/10248062), **<u>F. Luo</u>**, R. Luo, T. Chen, A. Qiao, Z. He, S. Song, Y. Jiang, S. Li \\
 IEEE/ACM International Conference on Software Engineering, 2024.
