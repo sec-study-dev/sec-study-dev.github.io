@@ -1,20 +1,24 @@
 
 # 📝 Publications 
 
-- ``CCS 2024`` [Towards Automatic Discovery of Denial of Service Weaknesses in Blockchain Resource Models](https://ieeexplore.ieee.org/document/10248062) \\
+- ``CCS 2024`` Towards Automatic Discovery of Denial of Service Weaknesses in Blockchain Resource Models [Paper](https://ieeexplore.ieee.org/document/10248062) \\
 **<u>F. Luo</u>**, K. Lin, Z. Li, S. Sun, X. Luo, R. Luo, Z. He, S. Song, T. Chen \\
 ACM Conference on Computer and Communications Security, 2024.
 
-- ``ICSE 2024`` [SCVHlunter: Smart Contract VulnerabilityDetection Based on Heterogeneous GraphAttention Network](https://ieeexplore.ieee.org/document/10248062), **<u>F. Luo</u>**, R. Luo, T. Chen, A. Qiao, Z. He, S. Song, Y. Jiang, S. Li \\
+- ``ICSE 2024`` SCVHlunter: Smart Contract VulnerabilityDetection Based on Heterogeneous GraphAttention Network [Paper](https://ieeexplore.ieee.org/document/10248062) \\
+**<u>F. Luo</u>**, R. Luo, T. Chen, A. Qiao, Z. He, S. Song, Y. Jiang, S. Li \\
 IEEE/ACM International Conference on Software Engineering, 2024.
 
-- ``AIBT 2023`` [VulDet: Smart Contract Vulnerability Detection Based on Graph Attention Networks](https://ieeexplore.ieee.org/document/10248062), **<u>F. Luo</u>**, R. Luo \\
+- ``AIBT 2023`` VulDet: Smart Contract Vulnerability Detection Based on Graph Attention Networks [Paper](https://ieeexplore.ieee.org/document/10248062) \\
+**<u>F. Luo</u>**, R. Luo \\
 International Conference on Artificial Intelligence and Blockchain Technology, 2023.
 
-- ``ICBICC 2022`` [Smart contract vulnerability detection based on variant LSTM](https://dl.acm.org/doi/10.1145/3588340.3588369), R. Luo, **<u>F. Luo</u>**, B. Wang, T. Chen \\
+- ``ICBICC 2022`` Smart contract vulnerability detection based on variant LSTM [Paper](https://dl.acm.org/doi/10.1145/3588340.3588369) \\
+R. Luo, **<u>F. Luo</u>**, B. Wang, T. Chen \\
 International Conference on Big Data, IoT, and Cloud Computing, 2022.
 
-- ``ICC 2022`` [TokenCat: Detect Flaw of Authentication on ERC20 Tokens](https://ieeexplore.ieee.org/document/9839252), Z. He, Z. Liao, **<u>F. Luo</u>**, D. Liu, T. Chen, Z. Li \\
+- ``ICC 2022`` TokenCat: Detect Flaw of Authentication on ERC20 Tokens [Paper](https://ieeexplore.ieee.org/document/9839252) \\
+Z. He, Z. Liao, **<u>F. Luo</u>**, D. Liu, T. Chen, Z. Li \\
 IEEE International Conference on Communications, 2022.
 
 <!-- ## 🎙 Speech Synthesis
