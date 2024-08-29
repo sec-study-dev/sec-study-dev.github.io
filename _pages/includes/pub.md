@@ -1,9 +1,14 @@
 
-# 📝 Publications 
+# Publications 
+<!-- # 📝 Publications -->
 
 - ``CCS 2024`` Towards Automatic Discovery of Denial of Service Weaknesses in Blockchain Resource Models ([Paper](https://ieeexplore.ieee.org/document/10248062)) \\
 **<u>F. Luo</u>**, K. Lin, Z. Li, S. Sun, X. Luo, R. Luo, Z. He, S. Song, T. Chen \\
 ACM Conference on Computer and Communications Security, 2024.
+
+- ``ISSTA 2024`` Empirical Study of Move Smart Contract Security: Introducing MoveScan for Enhanced Analysis ([Paper](https://2024.issta.org/track/issta-2024-papers#event-overview)) \\
+S. Song, J. Chen, T. Chen, X. Luo, T. Li, W. Yang, L. Wang, W. Zhang, **<u>F. Luo</u>**, Z. He, Y. Lu, P. Li \\
+ACM SIGSOFT International Symposium on Software Testing and Analysis, 2024.
 
 - ``ICSE 2024`` SCVHlunter: Smart Contract VulnerabilityDetection Based on Heterogeneous GraphAttention Network ([Paper](https://ieeexplore.ieee.org/document/10248062)) \\
 **<u>F. Luo</u>**, R. Luo, T. Chen, A. Qiao, Z. He, S. Song, Y. Jiang, S. Li \\
